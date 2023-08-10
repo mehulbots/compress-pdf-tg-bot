@@ -3,3 +3,4 @@ TgCrypto
 humanize
 #PDFNetPython3==8.1.0
 PDFNetPython3==9.5.0
+humanize==4.7.0
